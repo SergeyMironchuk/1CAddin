@@ -59,6 +59,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddIn.cs" />
+    <Compile Include="Component.cs" />
+    <Compile Include="IComponent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RussianNameAttribute.cs" />
   </ItemGroup>
